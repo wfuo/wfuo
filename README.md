@@ -12,5 +12,5 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('[https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg](https://raw.githubusercontent.com/wfuo/wfuo/main/dancing-monkeys.gif)');
+background: url('[https://raw.githubusercontent.com/wfuo/wfuo/main/dancing-monkeys.gif]');
 "]{}
