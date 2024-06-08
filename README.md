@@ -1,4 +1,16 @@
 ## wfuo
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/wfuo/wfuo/blob/main/dancing-monkeys.gif?raw=true');]{x0000}$}
+\mmlToken{ms}[fontfamily="
+madebycubiquwu;
+color: transparent;
+pointer-events:none;
+z-index: -11;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+width: 130vw;
+opacity: 0.5;
+background: url('[https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg](https://raw.githubusercontent.com/wfuo/wfuo/main/dancing-monkeys.gif)');
+"]{}
