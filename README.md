@@ -1,1 +1,1 @@
-![image](https://github.com/wfuo/wfuo/assets/166197033/9f040574-5206-41ee-98c6-516d3384607e)
+![ezgif-1-391c6eba47](https://github.com/user-attachments/assets/68bb8b42-98f8-4020-9eb1-0d1df5797acd)
